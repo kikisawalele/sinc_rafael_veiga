@@ -1,0 +1,5 @@
+Original video: c2.mp4
+FPS: 59.940060001224516
+Resolution: 1920x1080
+Total frames: 112
+Extraction timestamp: 20260918144434
